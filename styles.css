@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before{
+  box-sizing: border-box;
+}
+h1{
+  color: aqua;
+}
+/* background-color es una propiedad no heredable */
+.container{
+  color: red;
+  background-color: blue;
+}
+.container > h1{
+  color: unset;
+  background-color: initial;
+}
