@@ -1,0 +1,38 @@
+* 9a7210d practicando bucles en javascript
+* a504813 creando un formulario en html
+* 1348290 Agregando 2 parrafos
+*   6650a94 resolviendo conflictos en estaciones del year y fechas de inicio
+|\  
+| * cebaa79 agregando estaciones del year
+* | 646171d agregando estaciones del year con fechas de inicio
+|/  
+* ea56395 practicando para aprender git y github
+*   2679cd5 resolviendo conflictos entre ramas con la etiqueta h2
+|\  
+| * 67e7ce9 agreagndo una etiqueta h2 al index.html
+* | 48b3f1a agregando un h2 al index.html
+* | 4ac7d8c quitando restos del conflicto merge en el index.html
+* | 6af1261 Resolviendo conflicto merge main/html en el documento index.html
+|\| 
+| * 8bc2dbb adding index.js to the index.html
+* | 154afc3 adding styles.css to the index.html
+* | 3c264be creating file hola.html for to learn git and github
+|/  
+*   8253f14 Merge branch 'html'
+|\  
+| * 39d6046 creating file html
+* |   c431373 Merge branch 'js'
+|\ \  
+| * | 125173e creating function welcome
+| |/  
+* | e0097cf practicing specifity and inherence
+* | a15d450 practicando la propiedad inherit en css
+|/  
+* 69111cd adding file js
+* f9864c7 adding more description to the README
+* 0a55af7 adding that i'm going to learn in this course with sir jonmircha
+* e635795 agregando mas descripcion al archivo
+* 05ed44e agregando descripcion
+* 6514aaa agregando mas contenido
+* 731837c agregando contenido al README
+* b685a55 first commit

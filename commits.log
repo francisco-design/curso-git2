@@ -1,0 +1,178 @@
+commit 9a7210d35c7364122bb8ed1ce33530c974f09b5a
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Feb 7 23:32:24 2023 -0600
+
+    practicando bucles en javascript
+
+commit a504813bada6b4b7e1a87b4ec9031cb104ac698d
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Feb 7 14:24:55 2023 -0600
+
+    creando un formulario en html
+
+commit 1348290d6bb708e15a636588238cd07b16fa7f6a
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Feb 7 13:42:57 2023 -0600
+
+    Agregando 2 parrafos
+
+commit 6650a94fe69351e38b317ead1962d87c287be964
+Merge: 646171d cebaa79
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Feb 7 13:39:45 2023 -0600
+
+    resolviendo conflictos en estaciones del year y fechas de inicio
+
+commit 646171d2f3ca25ffa78e617a8972d8b4b85a7934
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Feb 7 12:41:34 2023 -0600
+
+    agregando estaciones del year con fechas de inicio
+
+commit cebaa793f549a4a92e8a3f5724ef7dc7460de04a
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Feb 7 12:41:34 2023 -0600
+
+    agregando estaciones del year
+
+commit ea56395700e7aabce518096e2b6975437f62c8e0
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sat Feb 4 15:12:51 2023 -0600
+
+    practicando para aprender git y github
+
+commit 2679cd55fa5e574e058157a713e4699b6052ef4b
+Merge: 48b3f1a 67e7ce9
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sat Feb 4 14:00:23 2023 -0600
+
+    resolviendo conflictos entre ramas con la etiqueta h2
+
+commit 67e7ce9121bf1cbf59f9c8288acddf54f4487e88
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sat Feb 4 13:59:04 2023 -0600
+
+    agreagndo una etiqueta h2 al index.html
+
+commit 48b3f1aa3b5e5660d74a967995c84d46225d3595
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sat Feb 4 13:57:19 2023 -0600
+
+    agregando un h2 al index.html
+
+commit 4ac7d8c87284a7e5115e9392eedb32d422fa7843
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sat Feb 4 12:55:38 2023 -0600
+
+    quitando restos del conflicto merge en el index.html
+
+commit 6af126148c2cbd1068ea8a0d6a050f82a74ab168
+Merge: 154afc3 8bc2dbb
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sat Feb 4 12:54:30 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 8bc2dbb7d5199763d1507b5c8c3fb2b1971a4aeb
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sat Feb 4 12:44:46 2023 -0600
+
+    adding index.js to the index.html
+
+commit 154afc32f4b143cc570b581356650d96c4e44da2
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sat Feb 4 12:39:45 2023 -0600
+
+    adding styles.css to the index.html
+
+commit 3c264be7d23ba9d381ab7bc3213b95bd09feb44b
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sat Feb 4 12:27:53 2023 -0600
+
+    creating file hola.html for to learn git and github
+
+commit 8253f149e5ec81566a744b11240fa0c9efa17dcd
+Merge: c431373 39d6046
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Jan 31 16:40:50 2023 -0600
+
+    Merge branch 'html'
+
+commit c43137371f72702a49468310c037fe718c93dc04
+Merge: e0097cf 125173e
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Jan 31 16:40:39 2023 -0600
+
+    Merge branch 'js'
+
+commit e0097cff40cc9e84b5af342b202d26af91c35612
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Jan 31 16:25:58 2023 -0600
+
+    practicing specifity and inherence
+
+commit a15d4505a5937705c758420b3990ca296556fa52
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Jan 31 16:24:11 2023 -0600
+
+    practicando la propiedad inherit en css
+
+commit 39d6046116cd73e23550e34248a5da431bf905e9
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Jan 31 16:06:13 2023 -0600
+
+    creating file html
+
+commit 125173ec5e60dbc2b506076a2ca7d3a26b30f6de
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Jan 31 16:02:41 2023 -0600
+
+    creating function welcome
+
+commit 69111cdcf84f5f55f9a72ee151e875de1880d0ad
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sun Jan 8 17:56:28 2023 -0600
+
+    adding file js
+
+commit f9864c78d2dd6c711e53686d261f3db0023948b8
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sun Jan 8 17:36:40 2023 -0600
+
+    adding more description to the README
+
+commit 0a55af7145db4a02d493b59f1cad70b841ce9f04
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sun Jan 8 17:07:40 2023 -0600
+
+    adding that i'm going to learn in this course with sir jonmircha
+
+commit e6357953134dd92293c7cf16535ee628f7acf61c
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sun Jan 8 16:32:43 2023 -0600
+
+    agregando mas descripcion al archivo
+
+commit 05ed44e5cbf8f3ba0212a0512721d411794ae212
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sun Jan 8 16:31:02 2023 -0600
+
+    agregando descripcion
+
+commit 6514aaab65be4408fb35888fc9e2d2285b8c36e6
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sun Jan 8 15:59:18 2023 -0600
+
+    agregando mas contenido
+
+commit 731837cbe1821d6cc0cec8574dc5fb2b8853cb1b
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sun Jan 8 12:27:29 2023 -0600
+
+    agregando contenido al README
+
+commit b685a55e4c45ef11a263ed24158733f100804a81
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sun Jan 8 12:08:11 2023 -0600
+
+    first commit
