@@ -1,3 +1,9 @@
+html {
+  background-color: purple;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
 *,
 *::after,
 *::before{
@@ -14,4 +20,13 @@ h1{
 .container > h1{
   color: unset;
   background-color: initial;
+}
+a {
+  color: orange;
+}
+a:hover {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
 }
