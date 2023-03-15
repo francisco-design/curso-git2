@@ -1,3 +1,103 @@
+commit d437f98f52de69f06b1c44489d28ffc51a1ff7db
+Merge: 19e35af 797b23d
+Author: francisco-design <102140205+francisco-design@users.noreply.github.com>
+Date:   Wed Mar 15 14:36:17 2023 -0600
+
+    Merge pull request #1 from francisco-antonio-amaya/readme-francisco
+    
+    Readme francisco
+
+commit 797b23d25e63c843b83836004e11faa2066c4bc2
+Merge: 7051970 19e35af
+Author: francisco-design <102140205+francisco-design@users.noreply.github.com>
+Date:   Wed Mar 15 14:31:04 2023 -0600
+
+    Merge branch 'main' into readme-francisco
+
+commit 70519708797ba2b03c34d12cd4ff8450a6574dff
+Author: Francisco Antonio Amaya <francisco2240000@gmail.com>
+Date:   Wed Mar 15 14:15:57 2023 -0600
+
+    Haciendo mejoras al README del repositorio
+
+commit 69c4f27d80f1877a0b0b070cbcb1edb34c9739e6
+Author: Francisco Amaya <francisco2240000@gmail.com>
+Date:   Wed Mar 15 13:05:52 2023 -0600
+
+    haciendo un fork
+
+commit 19e35afa77482fdee9a878d0dd8f560053ac1b94
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Wed Mar 15 12:41:10 2023 -0600
+
+    cambio de prueba
+
+commit 682a4a9f3c184a4744c082786d00a51332cd6960
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Fri Mar 10 13:58:27 2023 -0600
+
+    mmmm
+
+commit e8e6a38374f060dbb1a981f0f7d50333af753239
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Mar 7 22:25:10 2023 -0600
+
+    practcando javascript bucles
+
+commit 39619d867c2f3361fa93dfdd7394c6d426dca795
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Mar 7 22:24:21 2023 -0600
+
+    agregando script.js al documento index.html
+
+commit 41116dcf8f7faecb2f0006799f356f495f674d1b
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Tue Mar 7 17:40:51 2023 -0600
+
+    agregando imagen de flujo git y poniendo chulo el index.html
+
+commit 8dc1108eeae0205900684f20ce1bf592a1a46c4f
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Thu Mar 2 20:32:19 2023 -0600
+
+    v1.0.5
+
+commit dc0149f22624667c695a7f42821ac8036d7cb9b0
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Thu Mar 2 18:52:30 2023 -0600
+
+    v1.0.4
+
+commit 02013585da9aa125010d6338933f4574223b27da
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Thu Mar 2 16:38:54 2023 -0600
+
+    v1.0.1
+
+commit 390dc20497d69e2889d98277c69fbfa14291b154
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Thu Mar 2 16:24:23 2023 -0600
+
+    v1.0.0
+
+commit f960a31ca7e240cbcaf5db08397c9252ac612b1d
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sat Feb 25 14:05:58 2023 -0600
+
+    ignorando node_modules
+
+commit 3297e9dd45223e6449a2e372b8b7adf4d2d8ca49
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sat Feb 25 13:44:23 2023 -0600
+
+    ignorando archivos .exe
+
+commit 020e7449afc7dbe82dc0966864e3c35864534550
+Author: Francisco Amaya <famaya735@gmail.com>
+Date:   Sat Feb 25 13:36:39 2023 -0600
+
+    respaldando logs del repositorio
+
 commit 9a7210d35c7364122bb8ed1ce33530c974f09b5a
 Author: Francisco Amaya <famaya735@gmail.com>
 Date:   Tue Feb 7 23:32:24 2023 -0600
